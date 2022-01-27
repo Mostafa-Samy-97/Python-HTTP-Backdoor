@@ -13,5 +13,3 @@ Python backdoor that uses http post/get requests to communicate
 # Usage:
 Fireup the listener script then the controller then send the backdoor file and wait for connections
 
-# Screenshot
-![img](https://github.com/D4Vinci/ReverseHttp/blob/master/ScreenShot.png)
