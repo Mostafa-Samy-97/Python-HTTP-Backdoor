@@ -1,8 +1,8 @@
-# ReverseHttp
+# Http Reverse Shell 
 Python backdoor that uses http post/get requests to communicate
 # Requirement
 
-- **Python 2.7**
+- **Python installation**
 
 - [Cherrypy](http://www.cherrypy.org/)
 >pip install cherrypy
